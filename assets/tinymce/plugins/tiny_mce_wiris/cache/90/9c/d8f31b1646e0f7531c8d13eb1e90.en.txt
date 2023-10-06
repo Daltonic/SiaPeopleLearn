@@ -1,0 +1,1 @@
+{"result":{"text":"P presuperscript 6 subscript r equals 6 comma"},"status":"ok"}

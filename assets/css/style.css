@@ -1,0 +1,102 @@
+#owl-demo {
+  color: #fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+#owl-demos {
+  color: #fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+#owl-demoss {
+  color: #fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.owl-prev {
+  left: -25px;
+}
+
+.owl-next {
+  right: -25px;
+}
+
+.owl-prevs {
+  left: -25px;
+}
+
+.owl-nexts {
+  right: -25px;
+}
+
+.owl-prevss {
+  left: -25px;
+}
+
+.owl-nextss {
+  right: -25px;
+}
+
+.owl-prev span,
+.owl-next span {
+  font-size: 80px;
+  color: black;
+  /* background: black; */
+}
+
+.owl-prevs span,
+.owl-nexts span {
+  font-size: 80px;
+  color: black;
+  /* background: black; */
+}
+
+.owl-prevss span,
+.owl-nextss span {
+  font-size: 80px;
+  color: black;
+  /* background: black; */
+}
+
+.owl-theme,
+.owl-nav[class="owl-"]:hover {
+  background: transparent;
+}
+
+.rating {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+  color: #ddd; /* Personal choice */
+}
+.rating input {
+  display: none;
+}
+.rating label:hover,
+.rating label:hover ~ label,
+.rating input:checked + label,
+.rating input:checked + label ~ label {
+  color: #ffc107; /* Personal color choice. Lifted from Bootstrap 4 */
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.custom-number-input input:focus {
+  outline: none !important;
+}
+
+.custom-number-input button:focus {
+  outline: none !important;
+}

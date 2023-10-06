@@ -1,0 +1,1 @@
+{"result":{"text":"N equilibrium S"},"status":"ok"}

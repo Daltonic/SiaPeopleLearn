@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses square root of 0.7 end root space plus space square root of 70 close parentheses squared"},"status":"ok"}

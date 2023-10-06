@@ -1,0 +1,1 @@
+{"result":{"text":"I f space y equals x space sin space x comma f i n d space fraction numerator d y over denominator d x end fraction space w h e n greater than x equals straight pi over 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator b squared minus 4 a c over denominator 2 end fraction end root"},"status":"ok"}
